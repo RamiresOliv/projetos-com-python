@@ -1,3 +1,9 @@
+</p>
+<p align="center">
+<a href="https://www.python.org"><img src="https://www.alura.com.br/artigos/assets/python-origem/gif-1.gif"></a>
+</p>
+<p align="center">
+
 # 🐍 projetos com python
 
 python é top 🤠
