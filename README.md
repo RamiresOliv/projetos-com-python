@@ -4,12 +4,9 @@
 </p>
 <p align="center">
 
-<h1 aling="center">
 🐍 projetos com python
-</h1>
-<p aling="center">
 python é top 🤠
-</p>
+
 ## 👾 Importante:
 
 1. presisa ter o python instalado? > Sim
